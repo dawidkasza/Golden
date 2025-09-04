@@ -1,5 +1,22 @@
-.test {
-  background-color: black;
+/* Wariables */
+*, *::before, *::after {
+  box-sizing: border-box;
 }
 
-/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi4uL3Nhc3Mvc3R5bGUuc2NzcyIsInN0eWxlLmNzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTtFQUNHLHVCQUFBO0FDQ0giLCJmaWxlIjoic3R5bGUuY3NzIn0= */
+/* Navigation */
+/* Service */
+.services div {
+  text-align: center;
+}
+.services i {
+  font-size: 30px;
+  width: 60px;
+  height: 60px;
+  line-height: 60px;
+  color: orange;
+  border: 2px solid orange;
+  border-radius: 50%;
+  text-align: center;
+}
+
+/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi4uL3Nhc3Mvc3R5bGUuc2NzcyIsInN0eWxlLmNzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQSxjQUFBO0FBT0E7RUFDUSxzQkFBQTtBQ0xSOztBRFVBLGVBQUE7QUFHQSxZQUFBO0FBR0c7RUFDRyxrQkFBQTtBQ1hOO0FEY0c7RUFDQyxlQUFBO0VBQ0EsV0FBQTtFQUNBLFlBQUE7RUFDQSxpQkFBQTtFQUNBLGFBQUE7RUFDQSx3QkFBQTtFQUNBLGtCQUFBO0VBQ0Esa0JBQUE7QUNaSiIsImZpbGUiOiJzdHlsZS5jc3MifQ== */
