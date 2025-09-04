@@ -56,3 +56,29 @@ h1, p {
       width: 100% !important;
    }
 }
+
+
+/* Footer */
+
+.list {
+   padding-left: 0;
+   list-style: none;
+
+   .list-item {
+      display: inline-block;
+      font-size: 0;
+      i {
+         background-color: rgb(56, 56, 56);
+         font-size: 20px;
+         width: 40px;
+         height: 40px;
+         line-height: 40px;
+         border-radius: 50%;
+         text-align: center;
+         color: white;
+         text-decoration: none;
+      }
+   }
+}
+
+
